@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch.epfl.javelo"},{"l":"ch.epfl.javelo.data"},{"l":"ch.epfl.javelo.projection"},{"l":"ch.epfl.javelo.routing"},{"l":"ch.epfl.test"}];updateSearchResults();
